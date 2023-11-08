@@ -1,0 +1,221 @@
+
+      Interest rates are high. These are the best places to park your cash
+    
+
+            
+		
+                    
+                    function imageLoadError(img) {
+    const fallbackImage = '/media/sites/cnn/cnn-fallback-image.jpg';
+
+    img.removeAttribute('onerror');
+    img.src = fallbackImage;
+    let element = img.previousElementSibling;
+
+    while (element && element.tagName === 'SOURCE') {
+      element.srcset = fallbackImage;
+      element = element.previousElementSibling;
+    }
+  }
+                    
+		
+		
+			By Jeanne Sahadi, CNN
+		
+
+
+            
+  Updated
+        12:43 PM EDT, Thu September 21, 2023
+    
+
+      
+
+
+                
+                    
+    
+      New York
+      CNN
+         — 
+    
+
+
+  
+      Even though the Federal Reserve didn’t hike its benchmark interest rate on Wednesday, it didn’t lower it either.
+  
+
+  
+      So it remains at its highest level in 22 years.
+  
+
+  
+      Given that the Fed influences — directly or indirectly — interest rates on financial accounts and products throughout the US economy, that means savers and people with surplus cash still have many opportunities to get a far better return on their money than they’ve had in years — and even more importantly, a return that outpaces the latest readings on inflation.
+  
+
+  
+      Here are low-risk options to get the best yield on funds you plan to use within two years, and also on cash you expect to need within the next two to five years.
+  
+
+  
+    High-yield online savings accounts
+
+
+  
+      The average annual percentage yield on bank savings accounts was just 0.56%, according to a September 11 survey from Bankrate. That average is kept low by a nearly zero APY at the biggest brick-and-mortar players like JPMorgan Chase and Bank of America, which were each offering rates of just 0.01%.
+  
+
+  
+      But many online, FDIC-insured banks are offering well north of 5% on their high-yield savings accounts. 
+  
+
+  
+      Those accounts are a great place to deposit money that you will likely deploy within the next two years — to cover anything from a planned vacation or big purchase to an emergency expense or an unexpected change of circumstance like a job loss.
+  
+
+  
+      This is the account that certified financial planner Lazetta Rainey Braxton, co-CEO at 2050 Wealth Partners, calls your “cushion” account. She likes the word “cushion” because it describes the flexibility and options such an account gives you to handle both what you want to do in the near term and what you might need to do.
+  
+
+  
+      Another way high-yield accounts can be useful, Braxton said, is to house money you’ll need to pay off a purchase for which you’ve secured a 0% financing deal for a limited period of time (e.g., with a retailer like Home Depot). In that case, you won’t owe interest on your purchase so long as you pay it off in full before the end of the promotion period, which can be anywhere from six to 24 months. In the meantime, the money can grow by 4% to 5% a year in your high-yield account.
+  
+
+  
+      For your regular household bills, Braxton recommends keeping just enough cash to cover a month or two in a regular checking account for fastest access. “Not too much, because [those accounts] won’t yield much,” she said. 
+  
+
+  
+      You can always link your high-yield account to your checking account to transfer funds when needed — just know it may take up to 24 hours for the transferred money to show up in your checking account, Braxton noted.
+  
+
+  
+    Money market accounts and funds
+
+
+  
+      If you don’t want to set up an online savings account at another bank, your own bank may offer you a money market deposit account that pays a higher yield than your regular checking or savings accounts. 
+  
+
+  
+      
+            
+        
+      
+    
+       
+    
+    
+      
+        
+  
+  
+  
+
+        Adobe Stock
+      
+    
+
+
+    
+    
+      
+      Beyond FDIC insurance: How protected is your money outside of banks?
+    
+      
+
+
+
+  
+      Money market accounts may have higher minimum deposit requirements than a regular savings account, but they are more liquid than a fixed-term certificate of deposit or Treasury bill, meaning they give you access to your money more quickly while still potentially giving you some of the highest yields available, said Doug Ornstein, senior manager for integrated solutions at TIAA Wealth Management.
+  
+
+  
+      But don’t confuse money market accounts with money market mutual funds. Many of the mutual funds are currently offering yields north of 5%, according to Ken Tumin, founder of DepositAccounts.com.
+  
+
+  
+      But the funds are not FDIC insured in the way that money market accounts are, although if you invest in them through a brokerage, they are likely to be SIPC insured, to protect you should your brokerage ever go under. 
+  
+
+  
+      And while money market funds are typically very safe investments, they may have fees and withdrawal restrictions.
+  
+
+  
+    Certificates of deposits
+
+
+  
+      Another high-return, low-risk investment that is great for money you likely won’t need to tap for a few months or even a couple of years are certificates of deposit.
+  
+
+  
+      You can get the best returns on CDs through a brokerage such as Schwab, E*Trade or Fidelity. That’s because you can comparison shop for CDs from any number of FDIC-insured banks and will not have to set up individual accounts with each institution.
+  
+
+  
+      To get the greatest benefit from a CD, you have to leave the money invested for a fixed period. You can always access your principal sooner if you need to, but if you do you will forfeit at least some interest. 
+  
+
+  
+      As of September 19, CDs listed on Schwab.com with durations of three months, six months, nine months, one year and 18 months were all yielding 5.5% or more.
+  
+
+  
+      Say you invest $10,000 in a six-month CD with a 5.5% APY. At the end of that period, you’ll get your principal back plus nearly $274 in interest when the CD matures, according to Bankrate’s CD calculator. If you put it in a one-year CD you’d earn $555 in interest, while an 18-month term will generate $844.
+  
+
+  
+      If you don’t go through a brokerage you may get a reasonable deal from your primary bank, Tumin said. “Even the mega banks have been raising rates. Bank of America is the latest example. It recently increased the rate of its 7-month and 13-month CD Specials from 4.75% to 5.00% APY.”
+  
+
+  
+      He cautions that you should take your money out at the end of the term, otherwise your bank may automatically renew it and lock you in to a much lower-yielding CD.
+  
+
+  
+    Treasury bills
+
+
+  
+      Another option for money you can leave untouched anywhere from several months to a few years are short-term Treasury bills, which are backed by the full faith and credit of the United States. 
+  
+
+  
+      Three- and six-month bills had 5.5% yields, while nine-month and one-year bills were offering 5.43% this week, according to rates posted on Schwab.com. 
+  
+
+  
+      If you’re someone who manages your portfolio like a hawk, you may feel comfortable buying T-bills on your own from TreasuryDirect.gov. But if you’re like most of humanity, it might be easier just to buy new issues through your brokerage account or invest in a short-term bond index fund or ETF, said Andy Smith, executive director of financial planning at Edelman Financial Engines.
+  
+
+  
+      And if you’re looking at money that will be needed in three to five years, you might consider a diversified fund of highly rated government and corporate bonds, Ornstein said. Yields on three-year, AAA rated corporate bonds, for instance, were yielding nearly 5% this week, and AAA-rated municipal bonds (which are issue by local governments) had rates just under 4%, according to Schwab.com.
+  
+
+  
+    Don’t just chase yield
+
+
+  
+      When deciding on the best accounts and investments for your specific goals and peace of mind, it may pay to consult a fee-only fiduciary adviser — meaning someone who doesn’t get paid a commission to sell you a particular investment. 
+  
+
+  
+      What you’ll always want to do is build in flexibility for yourself so you can easily access cash, regardless of your timeline for key goals. “What happens if something changes and you need that down payment a lot sooner — or your parents need medical care fast?” Smith said.
+  
+
+  
+      That means balancing your desire for great yield with a need and desire for ease of access without penalty. Translation: Don’t chase yield for yield’s sake.
+  
+
+  
+      Think of it this way, Ornstein said: Unless you have huge sums to invest or are an institutional investor, the difference between getting a 5.1% yield versus 5% is negligible, and in fact it could even cost you more if there are penalties for taking your money out early. “Most of the time convenience is really important. Give up the 0.1%,” he advised.
+  
+
+                
+                
+                  
+                
+            

@@ -1,0 +1,76 @@
+
+      Blue Apron stock surges 130% on news it is being sold
+    
+
+            
+		
+                    
+                    function imageLoadError(img) {
+    const fallbackImage = '/media/sites/cnn/cnn-fallback-image.jpg';
+
+    img.removeAttribute('onerror');
+    img.src = fallbackImage;
+    let element = img.previousElementSibling;
+
+    while (element && element.tagName === 'SOURCE') {
+      element.srcset = fallbackImage;
+      element = element.previousElementSibling;
+    }
+  }
+                    
+		
+		
+			By Jordan Valinsky, CNN
+		
+
+
+            
+  Published
+        8:17 AM EDT, Fri September 29, 2023
+    
+
+      
+
+
+                
+                    
+    
+      New York
+      CNN
+         — 
+    
+
+
+  
+      Blue Apron shares soared more than 130% Friday after the once-hot meal kit delivery service announced it was being acquired.
+  
+
+  
+      Wonder Group, a food delivery startup led by former Walmart and Jet executive Marc Lore, is buying Blue Apron in a deal that gives shareholders $13 per share, valuing Blue Apron at $103 million — a far cry from its $2 billion valuation just six years ago. The per share purchase price is a 137% premium over Thursday’s closing price of $5.49. 
+  
+
+  
+      Since Blue Apron went public in 2017, its fortunes have dwindled with a number of problems, including layoffs, failing to grow its customer base and competition from larger companies, such as Amazon and Kroger. A brief boost during the height of the Covid-19 pandemic did not last.
+  
+
+  
+      Wonder said in a press release that its acquisition of Blue Apron is “expected to create a leading platform for mealtime, enhancing mealtime with choice, flexibility and convenience through two exceptional brands.” The idea is to create a “mealtime super app” filled with cuisines from “some of the world’s best chefs and restaurants.”
+  
+
+  
+      Combining the two brands will “enhance both companies’ abilities to deliver chef-curated meals with high-quality ingredients to more customers across the country, solving for additional meal moments throughout the week,” it added. 
+  
+
+  
+      The Blue Apron (APRN) name will continue to be used following the close of the transaction. Shares are down 44% for the year prior to Friday’s news.
+  
+
+  
+      In June, Blue Apron sold its assets, such as its fulfillment centers, to fellow meal company FreshRealm, giving it a $50 million cash infusion. That partnership will continue, according to Wonder.
+  
+
+                
+                
+                  
+                
+            

@@ -1,0 +1,112 @@
+
+      UBS shares rattled by report of US probe into Russia sanctions evasion
+    
+
+            
+		
+                    
+                    function imageLoadError(img) {
+    const fallbackImage = '/media/sites/cnn/cnn-fallback-image.jpg';
+
+    img.removeAttribute('onerror');
+    img.src = fallbackImage;
+    let element = img.previousElementSibling;
+
+    while (element && element.tagName === 'SOURCE') {
+      element.srcset = fallbackImage;
+      element = element.previousElementSibling;
+    }
+  }
+                    
+		
+		
+			By Hanna Ziady, CNN
+		
+
+
+            
+  Updated
+        12:33 PM EDT, Wed September 27, 2023
+    
+
+      
+
+
+                
+                    
+    
+      London
+      CNN
+         — 
+    
+
+
+  
+      Shares of UBS plunged Wednesday following a Bloomberg report that the Swiss bank faces a widening probe by the US Department of Justice (DOJ) over suspected compliance failures that allowed Russian clients to evade sanctions.
+  
+
+  
+      The Swiss Stock Exchange said it had temporarily stopped trade in the stock, which had fallen as much as 8% before it was suspended. Trading resumed later and shares closed 2.9% lower.
+  
+
+  
+      Citing people familiar with the matter, Bloomberg reported that what began as a probe into several banks turned into a full-scale investigation focusing on Credit Suisse, which was bought by UBS earlier this year in an emergency rescue deal.
+  
+
+  
+      UBS has seen its shares gain 30% since the takeover was announced on March 19.
+  
+
+  
+      But news of the probe could renew investor concerns about the lender’s exposure to Credit Suisse’s legal woes and compliance failures, which ultimately played a key role in destroying clients’ confidence in the bank.
+  
+
+  
+      The DOJ has briefed lawyers for UBS (UBS), which absorbed its smaller rival in June, about Credit Suisse’s alleged involvement in sanctions violations, according to Bloomberg. Authorities are also looking into possible compliance failures at UBS.
+  
+
+  
+      UBS declined to comment. CNN has contacted the DOJ.
+  
+
+  
+      In its latest earnings statement in August, UBS said Credit Suisse offices in various locations, including the United Kingdom, the Netherlands, France and Belgium, had been contacted by regulatory and law enforcement authorities seeking information in relation to investigations into cross-border private banking services.
+  
+
+  
+      JPMorgan analysts said the Bloomberg report of the DOJ probe was a “headwind” for UBS.
+  
+
+  
+      “We have not seen a mention of [a] Russia related DOJ probe in the latest [quarterly] report of UBS Group and hence it is likely not covered by existing balance sheet provisions of $4.7 billion at the end of June,” they said in a note on Wednesday. 
+  
+
+  
+      But they estimate that UBS has built up a much bigger buffer of nearly $10 billion in total to absorb litigation related expenses. 
+  
+
+  
+      In bailing out Credit Suisse, UBS has taken on a bank in terrible shape.
+  
+
+  
+      Swiss taxpayers were originally on the hook for potential losses resulting from the deal, but UBS said last month that it would no longer need a government guarantee of 9 billion francs ($10.3 billion) for future potential losses arising from Credit Suisse assets.
+  
+
+  
+      The move suggested the assets are not as toxic as UBS feared. 
+  
+
+  
+      Still, the parlous state of Credit Suisse presents an enormous challenge to UBS as it executes a first-of-its-kind merger of two global banks with combined assets of nearly $1.7 trillion.
+  
+
+  
+      Fully integrating the businesses will take three to four years, according to UBS chairman Colm Kelleher, who has warned of “huge” risks in merging the lenders.
+  
+
+                
+                
+                  
+                
+            

@@ -1,0 +1,84 @@
+
+      Warner Bros. to expand UK studios where ‘Barbie’ and ‘Harry Potter’ were filmed
+    
+
+            
+		
+                    
+                    function imageLoadError(img) {
+    const fallbackImage = '/media/sites/cnn/cnn-fallback-image.jpg';
+
+    img.removeAttribute('onerror');
+    img.src = fallbackImage;
+    let element = img.previousElementSibling;
+
+    while (element && element.tagName === 'SOURCE') {
+      element.srcset = fallbackImage;
+      element = element.previousElementSibling;
+    }
+  }
+                    
+		
+		
+			By Olesya Dmitracova, CNN
+		
+
+
+            
+  Published
+        6:53 AM EDT, Fri September 22, 2023
+    
+
+      
+
+
+                
+                    
+    
+      London
+      CNN
+         — 
+    
+
+
+  
+      Warner Bros. Discovery has announced plans for a major expansion of the UK studios where “Barbie” — its biggest movie of all time — was filmed. 
+  
+
+  
+      The expansion will increase the production capacity at the studios in the Leavesden area, on the outskirts of London, by more than 50%. The investment is expected to create 4,000 “direct and indirect” jobs across the United Kingdom, the company said Friday. 
+  
+
+  
+      The site will become the main production hub for the DC Studios franchise once the expansion is completed in 2027, it said in a statement. 
+  
+
+  
+      “Barbie” is Warner Bros.’ highest-grossing US release, a title previously held by the 2008 blockbuster “The Dark Knight.” The summer smash hit is also the biggest global release in the studio’s 100-year history, beating out 2011’s “Harry Potter and the Deathly Hallows: Part 2,” with a haul of more than $1.36 billion by early September. The box office comparisons don’t take inflation into account.
+  
+
+  
+      The “Harry Potter” series and the “House of the Dragon” television show were also shot at the Leavesden studios. “Harry Potter” fans can tour the studios, visiting sets used in the production.
+  
+
+  
+      News of the UK expansion comes as Warner Bros. Discovery (WBD) is grappling with prolonged strikes by actors and writers in the United States, which have stopped the production of most shows and movies and will cost the company up to $500 million this year, according to its estimates. 
+  
+
+  
+      The walkouts have also paralyzed three other major Hollywood studios: Disney, Netflix and NBCUniversal. The striking writers and heads of the four studios concluded a “marathon session” of negotiations without reaching a deal Thursday evening, although more progress was made, a person familiar with the matter told CNN.
+  
+
+  
+      Last year, a record £6.27 billion ($7.67 billion) was spent in the United Kingdom on the production of movies and high-end television shows, the British Film Institute said in February. 
+  
+
+  
+      CNN is owned by Warner Bros. Discovery.
+  
+
+                
+                
+                  
+                
+            

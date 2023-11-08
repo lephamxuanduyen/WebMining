@@ -1,0 +1,120 @@
+
+      26-year-old tech CEO found dead in Baltimore with signs of blunt-force trauma
+    
+
+            
+		
+                    
+                    function imageLoadError(img) {
+    const fallbackImage = '/media/sites/cnn/cnn-fallback-image.jpg';
+
+    img.removeAttribute('onerror');
+    img.src = fallbackImage;
+    let element = img.previousElementSibling;
+
+    while (element && element.tagName === 'SOURCE') {
+      element.srcset = fallbackImage;
+      element = element.previousElementSibling;
+    }
+  }
+                    
+		
+		
+			By Mitchell McCluskey and Jamiel Lynch, CNN
+		
+
+
+            
+  Updated
+        10:14 PM EDT, Tue September 26, 2023
+    
+
+      
+
+
+                
+                    
+    
+      
+      CNN
+         — 
+    
+
+
+  
+      The Baltimore Police Department has announced an arrest warrant for a suspect wanted for the murder of Pava LaPere, the 26-year-old CEO of startup EcoMap Technologies, who was found dead in a downtown Baltimore apartment Monday with signs of blunt-force trauma to her head.
+  
+
+  
+      Police are looking for 32-year-old Jason Dean Billingsley, Acting Police Commissioner Richard Worley said during a news conference Tuesday.
+  
+
+  
+      Officers responded to a call for service at an apartment complex in the 300 block of West Franklin Street at around 11:34 a.m. Monday, according to Baltimore police. Upon arriving, the officers found LaPere with severe injuries to her head. Police have not released any further information on her death.
+  
+
+  
+      The medical examiner’s office took possession of the body, and an examination is pending, police said. 
+  
+
+  
+      Billingsley is wanted for first-degree murder, assault, reckless endangerment and additional charges. He should be considered armed and dangerous, police said.
+  
+
+  
+      “This individual will kill and he will rape. He will do anything he can to cause harm,” Worley warned.
+  
+
+  
+      Baltimore police said they do not believe LaPere and Billingsley knew each other.
+  
+
+  
+      The police did not say how they identified Billingsley as a suspect.
+  
+
+  
+      In a message to Billingsley, Worley urged him to turn himself in. “We will find you, so I would ask you to turn yourself in to any officer, any police station,” he said.
+  
+
+  
+    A startup founder with ties to Baltimore
+
+
+  
+      EcoMap was founded by LaPere and Sherrod Davis while LaPere was a 21-year-old college student at Johns Hopkins, according to EcoMap’s website. With just over 30 employees, the startup is part of the artificial intelligence wave. It sells AI tools, including a customizable chatbot, that aim to make clients’ information easier to access and customer communications more seamless, the company says.
+  
+
+  
+      The company confirmed LaPere’s passing to CNN.
+  
+
+  
+      “With profound sadness and shock, EcoMap announces the tragic and untimely passing of our beloved Founder and CEO, Pava LaPere,” EcoMap said in a statement.  “The circumstances surrounding Pava’s death are deeply distressing, and our deepest condolences are with her family, friends, and loved ones during this incredibly devastating time.”
+  
+
+  
+      In August, the company said it had reached nearly $8 million in financing.  
+  
+
+  
+      Earlier this year, LaPere was named on the Forbes 30 under 30 list in the social impact category.  
+  
+
+  
+      “Pava was not only the visionary force behind EcoMap but was also a deeply compassionate and dedicated leader. Her untiring commitment to our company, to Baltimore, to amplifying the critical work of ecosystems across the country, and to building a deeply inclusive culture as a leader, friend, and partner set a standard for leadership, and her legacy will live on through the work we continue to do,” the company said.
+  
+
+  
+      The CEO of Baltimore-based company Fearless, Delali Dzirasa, served as a mentor to LaPere and remembers her as being a determined leader who was highly regarded across the community.  
+  
+
+  
+      “There is no person on planet Earth that could tell Pava that she couldn’t do something,” Dzirasa said. “Even though she was a force, she always made space for other people,” he told CNN.  
+  
+
+                
+                
+                  
+                
+            

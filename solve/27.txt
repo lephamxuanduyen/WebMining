@@ -1,0 +1,92 @@
+
+      The N-word and racist taunts: Tesla allowed racism in its factory, US government lawsuit alleges
+    
+
+            
+		
+                    
+                    function imageLoadError(img) {
+    const fallbackImage = '/media/sites/cnn/cnn-fallback-image.jpg';
+
+    img.removeAttribute('onerror');
+    img.src = fallbackImage;
+    let element = img.previousElementSibling;
+
+    while (element && element.tagName === 'SOURCE') {
+      element.srcset = fallbackImage;
+      element = element.previousElementSibling;
+    }
+  }
+                    
+		
+		
+			By Peter Valdes-Dapena, CNN
+		
+
+
+            
+  Updated
+        9:32 PM EDT, Thu September 28, 2023
+    
+
+      
+
+
+                
+                    
+    
+      
+      CNN
+         — 
+    
+
+
+  
+      The United States government’s Equal Employment Opportunity Commission sued Tesla Thursday alleging the automaker allowed repeated and overt displays of racism toward Black employees in its Fremont, California, factory.
+  
+
+  
+      Racist slurs were allegedly used often by non-Black employees when speaking to Black employees at the factory, according to the suit. The suit quotes a Black Tesla worker saying that “people were using the N-Word all the time, especially men, and particularly White men.” 
+  
+
+  
+      The suit also alleges instances of racist taunts and threats, including death threats written in the bathroom and racist graffiti on “vehicles rolling off the production lines.” 
+  
+
+  
+    Not the first such lawsuit
+
+
+  
+      Black employees who complained to supervisors about the behavior were subject to retaliation, including reassignment to unpleasant jobs, reschedulings and firings, according to the suit, which was filed in US District Court in the Northern District of California. It further charges the racial misconduct was “frequent, ongoing, inappropriate, unwelcome and occurred across all shifts, departments, and positions”.
+  
+
+  
+      This is not the first time Tesla has faced legal repercussions for alleged racist behavior in the Fremont factory. 
+  
+
+  
+      Earlier this year, Tesla was ordered to pay $3 million as a result of a civil suit by a Black elevator operator at the plant who claimed he was subjected to frequent racist abuse. That verdict came after an earlier verdict in the same case, for $137 million, was thrown out by a federal judge as excessive. In 2022, a California state civil rights agency also sued Tesla accusing the company of allowing racist abuse in the factory. 
+  
+
+  
+      Shortly before the California state suit was filed last year, Tesla published a blog post denying such allegations. “Tesla has always disciplined and terminated employees who engage in misconduct, including those who use racial slurs or harass others in different ways,” the company wrote at the time.
+  
+
+  
+      According to the EEOC suit, the behavior started as early as 2015 but has continued to the present. The EEOC communicated with Tesla representatives and invited the company to meet to discuss the allegations but Tesla did not provide a plan of action acceptable to the commission, according to the lawsuit.
+  
+
+  
+      Tesla did not respond to CNN emails asking if the company had any response to the latest suit and for any additional information or comment on the previous lawsuits.
+  
+
+  
+      The lawsuit makes no specific monetary demand but asks that a jury require Tesla to remunerate alleged victims for the conduct they were subjected to and pay other damages, as appropriate.
+  
+
+                
+                
+                  
+                
+            

@@ -1,0 +1,154 @@
+
+      Trade between Russia and China is booming so much that shipping containers are ‘piling up’
+    
+
+            
+		
+                    
+                    function imageLoadError(img) {
+    const fallbackImage = '/media/sites/cnn/cnn-fallback-image.jpg';
+
+    img.removeAttribute('onerror');
+    img.src = fallbackImage;
+    let element = img.previousElementSibling;
+
+    while (element && element.tagName === 'SOURCE') {
+      element.srcset = fallbackImage;
+      element = element.previousElementSibling;
+    }
+  }
+                    
+		
+		
+			By Simone McCarthy
+		
+
+
+            
+  Updated
+        1:38 AM EDT, Fri September 29, 2023
+    
+
+      
+
+
+                
+                    
+
+  Editor’s Note: Sign up for CNN’s Meanwhile in China newsletter which explores what you need to know about the country’s rise and how it impacts the world.
+
+
+  
+    
+      
+      CNN
+         — 
+    
+
+
+  
+      Shipping containers from China are “piling up” in Russia amid a surge of Chinese goods flowing into the country as trade soars, a new analysis has found. 
+  
+
+  
+      Russia has an extra 150,000 shipping containers that importers are scrambling to return to China, logistics platform Container xChange said in a report released Thursday, citing information provided by a customer. 
+  
+
+  
+      “There is significant cargo movement from China into Russia but very scarce movement back to China from Russia. Containers are piling up in Russia which means that the secondhand container prices are very low in Russia,” CEO Christian Roeloffs said in the report.
+  
+
+  
+      China has emerged as a key economic lifeline for Russia after its invasion of Ukraine as the United States and its allies cut trade and imposed sanctions to choke off the Kremlin’s war effort. China has insisted it is neutral, and only wants peace in Ukraine.
+  
+
+  
+      But Chinese leaders see Moscow as a close strategic partner and key counterweight against a hostile West. Beijing has slammed Western sanctions on its northern neighbor, while ramping up Russian energy purchases and becoming a critical supplier of consumer goods for the Russian market.
+  
+
+  
+      The container glut, which has seen the price of 40-foot containers fall seven-fold since early last year, is a consequence of the “deepening trade imbalance between Russia and China” when it comes to the kind of products sent by container, according to Container xChange.
+  
+
+  
+      In the first eight months of 2023, bilateral trade rose by 32% compared to the same period a year before, with total trade volume reaching $155 billion, according to Chinese customs data released earlier this month. 
+  
+
+  
+      
+            
+        
+      
+    
+       
+    
+    
+      
+        
+  
+  In this pool photograph distributed by Sputnik agency Russia's President Vladimir Putin addresses the audience during the Eastern Economic Forum in Vladivostok on September 12, 2023. (Photo by Mikhail METZEL / POOL / AFP) (Photo by MIKHAIL METZEL/POOL/AFP via Getty Images)
+  
+
+        Mikhail Metzel/AFP/Getty Images
+      
+    
+
+
+    
+    
+      
+      Putin lauds 'excellent' economic ties with China. Here's how they've grown
+    
+      
+
+
+
+  
+      That included a surge of exports from China to Russia, which jumped 63.2% from a year ago to reach $71.8 billion. Imports into China rose at a more modest 13.3% to $83.3 billion. 
+  
+
+  
+      Russia has said it expects trade with China to reach a record $200 billion this year — a year ahead of the schedule that President Vladimir Putin and Chinese leader Xi Jinping had set in 2019.
+  
+
+  
+      Their growing trade ties have shifted Russian energy trade eastward and sparked criticism that China’s economic support is backing Russia’s war on Ukraine.
+  
+
+  
+      The type of goods exchanged is contributing to the surplus of shipping containers in Russia, according to Container xChange.
+  
+
+  
+      Its report pointed to China’s purchases of Russian raw materials, which are primarily transported via rail tanks and open wagons rather than in containers.
+  
+
+  
+      Cars and consumer electronics are among the key products that Chinese suppliers are selling to Russia, after hundreds of global brands fled the country following the invasion.
+  
+
+  
+      In the other direction, almost a fifth of China’s crude imports in July came from Russia, the Organization of the Petroleum Exporting Countries said in a report released earlier this month. 
+  
+
+  
+      Together with India, China accounted for 80% of Russian oil exports in July, the International Energy Agency said in an August report.
+  
+
+  
+      Container xChange also pointed to broader logistical issues linked to shifting trade patterns and congestion.
+  
+
+  
+      “Overloaded Russian ports and roads are causing transportation inefficiencies. Although some investments have been made to improve infrastructure, fiscal constraints and … [methods used to cover] budget shortfalls complicate matters,” it said.
+  
+
+  
+      “Russia’s pivot to Asia hinges on substantial infrastructure development,” it added.
+  
+
+                
+                
+                  
+                
+            

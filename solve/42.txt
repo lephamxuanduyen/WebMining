@@ -1,0 +1,108 @@
+
+      Evergrande stock crashes again as fears of collapse grow
+    
+
+            
+		
+                    
+                    function imageLoadError(img) {
+    const fallbackImage = '/media/sites/cnn/cnn-fallback-image.jpg';
+
+    img.removeAttribute('onerror');
+    img.src = fallbackImage;
+    let element = img.previousElementSibling;
+
+    while (element && element.tagName === 'SOURCE') {
+      element.srcset = fallbackImage;
+      element = element.previousElementSibling;
+    }
+  }
+                    
+		
+		
+			By Laura He, CNN
+		
+
+
+            
+  Updated
+        5:46 AM EDT, Wed September 27, 2023
+    
+
+      
+
+
+                
+                    
+    
+      Hong Kong
+      CNN
+         — 
+    
+
+
+  
+      Shares of Evergrande Group crashed again on Wednesday as fears grew of a potential liquidation of the company, the poster child of China’s property crisis. 
+  
+
+  
+      The embattled developer’s stock closed down 19% at 32 Hong Kong cents (4 US cents), putting its market cap at just 4.2 billion Hong Kong dollars ($539 million). The slide took this week’s losses to 42%. The company has lost 99.9% of its value since peaking in October 2017.
+  
+
+  
+      Evergrande’s woes deepened this week, after it warned that its offshore debt restructuring plan may be in trouble because of a regulatory probe into its main subsidiary in mainland China. The warning came just a week after news emerged that Chinese police had launched their first criminal probe into Evergrande since it defaulted on its debt nearly two years ago.
+  
+
+  
+      Investors breathed a small sigh of relief last month when Evergrande reported a significant narrowing in its losses for the first half of the year. That was thanks to a rise in revenue because of a “short boom” in China’s property market earlier this year, the company said then.
+  
+
+  
+      But the news since has been relentlessly negative, and a growing number of investors are reportedly seeking to wind up the company if it is unable to come up with a new survival plan soon. 
+  
+
+  
+      Investors are on edge because of the “increasing risks of a potential liquidation of Evergrande,” said Jun Rong Yeap, a market analyst at IG Group.
+  
+
+  
+    Hobbling the economy
+
+
+  
+      Previously China’s second biggest real estate company, Evergrande’s default in 2021 ignited a crisis in the property sector that continues to weigh on the wider economy.
+  
+
+  
+      Evergrande has been trying to implement a government-supervised restructuring of its debts, which stood at $328 billion at the end of June. It unveiled a multi-billion dollar plan to make peace with its international creditors and recently filed for bankruptcy protection in the United States as part of the process.
+  
+
+  
+      If the restructuring fails, and Evergrande is unable to reach a new deal with its creditors, it could face liquidation, where its assets are sold and it stops all operations.
+  
+
+  
+      Evergrande was forced to cancel meetings with creditors scheduled for this week, in part because recent sales have been weaker than it expected.
+  
+
+  
+      Frederic Neumann, chief Asia economist for HSBC, told CNN that the big concern for investors is whether recent measures by Beijing to stimulate housing demand are getting traction and how much they would impact growth.
+  
+
+  
+      “So far, the results are mixed and further tweaks to China’s housing market policies, including lower mortgage rates, may be needed to stabilize sales and the sector more broadly,” he said. 
+  
+
+  
+      “The [property] sector is so large that without a strong rebound, which appears unlikely for now, overall economic growth will likely be substantially lower than in recent decades.”
+  
+
+  
+      — Marc Stewart contributed reporting.
+  
+
+                
+                
+                  
+                
+            

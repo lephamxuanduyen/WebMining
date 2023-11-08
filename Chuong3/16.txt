@@ -1,0 +1,165 @@
+
+      Warning signs suggest this year’s stock market rally is on shaky legs
+    
+
+            
+		
+		
+		
+			Analysis by Krystal Hur, CNN
+		
+
+
+            
+  Published
+        7:36 AM EDT, Fri September 29, 2023
+    
+
+      
+
+
+                
+                    
+
+  A version of this story first appeared in CNN Business’ Before the Bell newsletter. Not a subscriber? You can sign up right here. You can listen to an audio version of the newsletter by clicking the same link.
+
+
+  
+    
+      
+      CNN
+         — 
+    
+
+
+  
+      Is this year’s market rally coming to an end? 
+  
+
+  
+      It’s too soon to tell, but there are alarm bells ringing that indicate investors should be — and are — on edge.
+  
+
+  
+      Stocks rebounded this year after a bruising 2022, as artificial intelligence excitement led investors to fuel a powerful tech-driven surge. Seemingly abating inflation also raised hopes on Wall Street that the Federal Reserve would soon curb its interest rate hiking cycle, helping equities edge higher.
+  
+
+  
+      Now, markets aren’t looking so picturesque. The economy’s resilience against numerous interest rate hikes, a tick up in inflation data this month and the Fed’s indication that it could raise rates once more this year and keep them higher for longer than expected has started to chip away at the market’s gains.
+  
+
+  
+      While the benchmark S&P 500 index is not in correction territory, defined in this case as a 10% fall from its most recent peak on July 31, that means stocks have more room to fall, says Liz Young, head of investment strategy at SoFi.
+  
+
+  
+      “There’s more risk to the downside, at least in the near term,” said Young.
+  
+
+  
+      Here are some signs that suggest there could be more pain to come.
+  
+
+  
+      Market breadth is narrowing. While shares of tech behemoths have led the market’s surge this year, the rally had begun to broaden out in early summer.
+  
+
+  
+      But it’s since narrowed over the past few months. The percentage of stocks in the S&P 500 index trading above their 200-day moving averages, a commonly watched indicator of market breadth, fell this week to its lowest level since March.
+  
+
+  
+    
+!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r < t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+
+
+
+
+
+
+
+  
+      A narrow rally doesn’t bode well for the market’s health, since having just a small share of stocks holding it up means that it’s more susceptible to a downturn. This year, shares of tech giants have been responsible for the lion’s share of the market’s run — but even those have taken a hit in recent weeks. Nvidia shares have tumbled roughly 13% this month, Apple shed 9% and Tesla and Microsoft lost 4%.
+  
+
+  
+      Wall Street’s mood is worsening. CNN’s Fear & Greed Index, which measures seven different technical indicators to gauge what “mood” is driving markets, has trended lower since its most recent peak in late June, despite edging up briefly earlier this month. The index reached an “Extreme Fear” reading on Wednesday for the first time since March, when the collapse of regional lenders Silicon Valley Bank and Signature Bank sparked fears of recession.
+  
+
+  
+      Treasury yields are surging. Yields have surged in recent weeks as investors assess the state of the economy and the Fed’s higher-for-longer signal. While yields receded somewhat on Thursday, they remain near a decade high. The yield on the 10-year US Treasury note was at 4.597%, down from 4.626% the day before, which marked the highest close since October 2007.
+  
+
+  
+      High yields often mean bad news for stocks, since investors tend to gravitate toward virtually risk-free Treasury bonds when they offer high returns over stocks.
+  
+
+  
+      Oil prices are climbing. Oil prices have rallied this summer, as several output cuts announced by OPEC+ have started to take hold on markets. US crude prices on Wednesday climbed to their highest level since last year, when Russia’s invasion of Ukraine sparked fears about a supply constraint and sent oil prices skyrocketing. While prices dipped on Thursday, they remain elevated and within striking distance of $100 a barrel.
+  
+
+  
+      Conventional wisdom on Wall Street says that higher oil prices jack up input costs for companies and force consumers to spend more on gas for their cars and to heat their homes, cutting into corporate bottom lines and consumer spending — and thus creating a potential multifold drag on stocks.
+  
+
+  
+      Investors are also worried that higher crude prices will push up inflation, which could in turn make the Fed hike interest rates further to reach its 2% inflation goal. But economists at Goldman Sachs brushed off those concerns.
+  
+
+  
+      “The Fed is unlikely to tighten policy in response to higher oil prices, especially at a time when core inflation and inflation expectations are falling,” they wrote in a note on Sunday.
+  
+
+  
+    Girl Scout cookies are coming back, and prices are going up
+
+
+  
+      Girl Scout cookies are getting more expensive, in some places at least, reports my colleague Danielle Wiener-Bronner.
+  
+
+  
+      At least one New York State chapter, the Girl Scouts Heart of the Hudson, told troop parents and other members of the community in an email this week that all cookies will be sold for $6 per box this coming cookie season — which takes place from about January to April annually nationwide  — up from $5 last year.
+  
+
+  
+      “In order to combat rising production and material costs, GSHH will be increasing the price of all cookie packages to $6,” the chapter’s interim CEO wrote, adding “we expect our neighboring councils to announce similar increases in the coming weeks and months.”
+  
+
+  
+      Some cookies, like S’mores and Toffee-Tastic, were already priced at $6. But now the higher price will apply to other cookies that the troops sell, including the more classic varieties.
+  
+
+  
+      Read more here.
+  
+
+  
+    US consumer spending was much weaker in the second quarter than previously estimated
+
+
+  
+      The Commerce Department’s final revision of second-quarter gross domestic product, the broadest measure of economic output, showed that growth was unchanged from the second estimate, holding at an annualized rate of 2.1%.
+  
+
+  
+      However, consumer spending, America’s economic engine, was revised much lower, to a 0.8% annualized rate, according to data released Thursday. That’s down from the 1.7% rate reflected in the previous estimate. Spending in the second quarter grew at its weakest pace since the first quarter of 2022, when it was flat.
+  
+
+  
+      Thursday’s hefty revision shows that Americans pared back their spending from the beginning of the year much more than previously thought, reports my colleague Bryan Mena.
+  
+
+  
+      Consumer spending accounts for about 70% of economic output. US consumers spent less on services and nondurable goods, which are products meant to last a short while, such as clothes, cleaning supplies and beauty products.
+  
+
+  
+      Read more here.
+  
+
+                
+                
+                  
+                
+            

@@ -1,0 +1,84 @@
+
+      National Coffee Day deals: Free drinks at Dunkin’, Krispy Kreme and more
+    
+
+            
+		
+                    
+                    function imageLoadError(img) {
+    const fallbackImage = '/media/sites/cnn/cnn-fallback-image.jpg';
+
+    img.removeAttribute('onerror');
+    img.src = fallbackImage;
+    let element = img.previousElementSibling;
+
+    while (element && element.tagName === 'SOURCE') {
+      element.srcset = fallbackImage;
+      element = element.previousElementSibling;
+    }
+  }
+                    
+		
+		
+			By Jordan Valinsky, CNN
+		
+
+
+            
+  Updated
+        6:11 AM EDT, Fri September 29, 2023
+    
+
+      
+
+
+                
+                    
+    
+      New York
+      CNN
+         — 
+    
+
+
+  
+      For tired workers, this Friday is arguably the best day of the year: It’s National Coffee Day.
+  
+
+  
+      Coffee shops, large and small, celebrate it annually with free (what else?) coffee and other deals. Peet’s is even offering a “Disloyalty Program” that incentivizes customers of its rivals to switch. 
+  
+
+  
+      Sixty-seven percent of Americans drink coffee every day — more than any other beverage, including water — according to National Coffee Association (NCA).
+  
+
+  
+      A recently released NCA report also said that coffee consumption continues to “bounce back” from the Covid-19 pandemic, notably with at-work consumption growing as companies compel their workers return to the office. In fact, enjoying an in-office coffee has “rebounded to pre-pandemic levels” with 36% of Americans participating. People drinking coffee at home are still above their pre-pandemic levels at 82%. 
+  
+
+  
+      As with other food-related holidays, including National Ice Cream Day and National Cheeseburger Day, chains are taking full advantage of opportunity to market their brands. Coffee chains unveil big giveaways to lure customers who may not normally stop by, hoping customers add to their orders to drive business. In some cases, the giveaways push customers to the store’s app, with the aim of gaining repeat customers.
+  
+
+  
+      Here’s how some of the bigger chains are celebrating:
+  
+
+  
+  
+      Circle K is giving away one free cup of coffee of any size through its app until October 2, with the offer valid at more than 7,000 US locations.
+      Dunkin’ is offering members of its loyalty program, Dunkin’ Rewards, a free medium hot or iced coffee with any purchase on Friday.
+      Krispy Kreme is doing one better: Completely free coffee! Any customer can get a medium hot or iced coffee, no purchase necessary. The chain recently revamped its coffee with “better beans, smoother blends and richer roasts for fresh, delicious flavor,” it said.
+      Peet’s Coffee says it’s “disrupting the coffee industry” with a new “Disloyalty Program.” For the first time ever, members of its rivals’ rewards programs (including Starbucks and Dunkin’) can use points earned elsewhere for a free coffee at Peet’s. A website has been set up to complete the process.
+      Sheetz is giving customers a free Nitro or cold brew coffee (any size) with any purchase made through its app until October 1. 
+      Tim Hortons is giving members of its rewards program a free medium hot or iced coffee with a $3 or more purchase.  
+      Wendy’s is selling 99-cent small hot or iced coffee on its app. 
+  
+
+
+                
+                
+                  
+                
+            

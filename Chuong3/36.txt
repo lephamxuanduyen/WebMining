@@ -1,0 +1,230 @@
+
+      US mortgage rates climb to 7.31%, hitting their highest level in nearly 23 years
+    
+
+            
+		
+                    
+                    function imageLoadError(img) {
+    const fallbackImage = '/media/sites/cnn/cnn-fallback-image.jpg';
+
+    img.removeAttribute('onerror');
+    img.src = fallbackImage;
+    let element = img.previousElementSibling;
+
+    while (element && element.tagName === 'SOURCE') {
+      element.srcset = fallbackImage;
+      element = element.previousElementSibling;
+    }
+  }
+                    
+		
+		
+			By Anna Bahney, CNN
+		
+
+
+            
+  Updated
+        2:10 PM EDT, Thu September 28, 2023
+    
+
+      
+
+
+                
+                    
+    
+      Washington, DC
+      CNN
+         — 
+    
+
+
+  
+      US mortgage rates surged to their highest level in nearly 23 years this week as inflation pressures persisted.
+  
+
+  
+      The 30-year fixed-rate mortgage averaged 7.31% in the week ending September 28, up from 7.19% the week before, according to data from Freddie Mac released Thursday. A year ago, the 30-year fixed-rate was 6.70%.
+  
+
+  
+      “The 30-year fixed-rate mortgage has hit the highest level since the year 2000,” said Sam Khater, Freddie Mac’s chief economist, in a statement. “However, unlike the turn of the millennium, house prices today are rising alongside mortgage rates, primarily due to low inventory. These headwinds are causing both buyers and sellers to hold out for better circumstances.”
+  
+
+  
+      
+            
+        
+      
+    
+       
+    
+    
+      
+        
+  
+  A sign outside a home for sale in Atlanta, Georgia, US, on Wednesday, Sept. 6, 2023. Home prices in the US climbed for a fifth month as buyers competed for deals in the least affordable market in decades. Photographer: Elijah Nouvelage/Bloomberg via Getty Images
+  
+
+        Elijah Nouvelage/Bloomberg/Getty Images
+      
+    
+
+
+    
+    
+      
+      US home prices rose in July to record-high levels
+    
+      
+
+
+
+
+  
+      The average mortgage rate is based on mortgage applications that Freddie Mac receives from thousands of lenders across the country. The survey includes only borrowers who put 20% down and have excellent credit.
+  
+
+  
+      Mortgage rates have spiked during the Federal Reserve’s historic inflation-curbing campaign — and while a good deal of progress has been made since June 2022, when inflation hit 9.1%, Fed officials say there is still a ways to go. 
+  
+
+  
+      The Fed’s preferred inflation measure, the core Personal Consumption Expenditures index, is currently 4.2%, which is more than double the Fed’s target of 2%. Economists expect it to drop to 3.9% when the latest reading is released on Friday.
+  
+
+  
+    Higher for longer
+
+
+  
+      This week’s mortgage rate surge followed last week’s small move higher, as investors settled in for “higher-for-longer” interest rates after last week’s Fed policy meeting, said Danielle Hale, chief economist at Realtor.com.
+  
+
+  
+      Hale said the takeaway from the meeting was that the upward adjustments from the Fed haven’t ended. 
+  
+
+  
+      
+            
+        
+      
+    
+       
+    
+    
+      
+        
+  
+  FILE PHOTO: Raindrops hang on a sign for Wall Street outside the New York Stock Exchange in Manhattan in New York City, New York, U.S., October 26, 2020. REUTERS/Mike Segar/File Photo
+  
+
+        Mike Segar/Reuters/FILE
+      
+    
+
+
+    
+    
+      
+      Wall Street closes lower after Fed Chair Powell says more hikes are ahead
+    
+      
+
+
+
+
+  
+      “Revised economic projections show that another rate hike this year is definitely on the table, and the expected policy rate in 2024 and 2025 was also higher than previously forecast,” she said. “Market participants are still playing catchup.”  
+  
+
+  
+      While the Fed does not set the interest rates that borrowers pay on mortgages directly, its actions influence them.
+  
+
+  
+      Mortgage rates tend to track the yield on 10-year US Treasuries, which move based on a combination of anticipation about the Fed’s actions, what the Fed actually does and investors’ reactions. When Treasury yields go up, so do mortgage rates; when they go down, mortgage rates tend to follow.
+  
+
+  
+      The yield on 10-year Treasuries rose from 4.3% on September 20 to 4.6% as of September 27.
+  
+
+  
+    Buyers bowing out
+
+
+  
+      Mortgage applications continued to drop last week, according to the Mortgage Bankers Association, as mortgage rates went higher.
+  
+
+  
+      “Rates over 7% and low for-sale inventory continue to create affordability challenges for prospective buyers,” said Bob Broeksmit, MBA president and CEO. “Until rates start to come back down, we anticipate housing market activity will remain slow.”  
+  
+
+  
+      Markets are experiencing an extraordinarily low number of homes for sale as homeowners stay put with ultra-low mortgage rates that are several percentage points lower than the current rate.
+  
+
+  
+      
+            
+        
+      
+    
+       
+    
+    
+      
+        
+  
+  A new residential apartment building are seen on July 26, 2022 in the Brooklyn borough of New York City. 
+  
+
+        Spencer Platt/Getty Images
+      
+    
+
+
+    
+    
+      
+      Renters are being hit harder by inflation than homeowners 
+    
+      
+
+
+
+
+  
+      There has been a small uptick in newly listed homes coming to market over the past few weeks, according to Realtor.com, which is seasonally atypical, said Hale. 
+  
+
+  
+      The first week in October tends to be an ideal week to buy a home, she said, since home prices tend to fall relative to summer highs, and fewer buyers contend for homes. Yet housing inventory remains higher than a typical week, Hale said. 
+  
+
+  
+      But, she added, mortgage rates will continue to be a wild card, which could make it impossible for some buyers to get in the market now.
+  
+
+  
+      Even as demand is dropping, with so few homeowners selling, the market is pushing up prices as those few buyers who remain tussle over the handful of available houses, Hale said.
+  
+
+  
+      This combination of higher prices and higher mortgage rates contrasts with easing rents over the past few months. This may cause would-be first-time buyers to wait for home prices and mortgage rates to stabilize and rent instead.
+  
+
+  
+      “Buying a starter home is more expensive than renting in all but three major US markets [Realtor.com] studied,” said Hale, “which explains why buyer demand is likely to remain relatively low.”
+  
+
+                
+                
+                  
+                
+            

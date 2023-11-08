@@ -1,0 +1,301 @@
+
+      Evergrande’s chairman has been detained. The company will struggle to survive
+    
+
+            
+		
+                    
+                    function imageLoadError(img) {
+    const fallbackImage = '/media/sites/cnn/cnn-fallback-image.jpg';
+
+    img.removeAttribute('onerror');
+    img.src = fallbackImage;
+    let element = img.previousElementSibling;
+
+    while (element && element.tagName === 'SOURCE') {
+      element.srcset = fallbackImage;
+      element = element.previousElementSibling;
+    }
+  }
+                    
+		
+		
+			Analysis by Laura He, CNN
+		
+
+
+            
+  Updated
+        7:38 AM EDT, Fri September 29, 2023
+    
+
+      
+
+
+                
+                    
+
+  Editor’s Note: Sign up for CNN’s Meanwhile in China newsletter which explores what you need to know about the country’s rise and how it impacts the world.
+
+
+  
+    
+      Hong Kong
+      CNN
+         — 
+    
+
+
+  
+      After defaulting on its debt two years ago, Chinese real estate developer Evergrande was meant to be restructured and allowed to get back on its feet. But that plan now looks to be in peril, after police detained its chairman as well as staff at a financing subsidiary.
+  
+
+  
+      Xu Jiayin, also known as Hui Ka Yan in Cantonese, has been subject to “mandatory measures” on suspicion of crimes, Evergrande said Thursday in a filing to the Hong Kong stock exchange.
+  
+
+  
+      The company didn’t elaborate on Xu’s location or the nature of the alleged crimes. Under the Chinese legal system, “mandatory” or “compulsory” measures can include detention and formal arrest.
+  
+
+  
+      Xu founded Evergrande in 1996. His detention casts further serious uncertainty on the future of the embattled property giant, which was hoping to finalize a massive government-supervised debt restructuring plan in the coming weeks to stave off collapse. 
+  
+
+  
+      Evergrande, which still has $300 billion in liabilities and continues to bleed money, had already warned Sunday that the restructuring plan may be in trouble because of a regulatory probe into its main property development subsidiary in mainland China. Meetings with creditors were postponed.
+  
+
+  
+      “[Beijing] has certainly changed its posture [towards Evergrande] because what was a debt restructuring story has now taken on the mantle, albeit not yet fact, of a criminal case,” said George Magnus, research associate at Oxford University’s China Centre and SOAS University of London.
+  
+
+
+      
+    
+       
+    
+    
+      
+        
+  
+  Xu Jiayin, chairman of Evergrande, attends a news conference in Hong Kong in March 2016.
+  
+
+        Bobby Yip/Reuters/FILE
+      
+    
+
+
+
+  
+      Evergrande could go the way of other failed businesses, such as HNA Group or Anbang, he added. Ten years ago, they were among China’s largest private conglomerates, having gone on a global buying spree. But their chairmen were detained in 2017 and 2021, and both companies were eventually liquidated and taken over by the government. 
+  
+
+  
+      “My guess is that this is going to bury the company as it is, though it could be acquired or broken up,” Magnus said. “The company will be taken over, parceled out to, or otherwise run by, some [combination] of local government, state developer and banks.”
+  
+
+  
+      But Chinese authorities will need to tread carefully, cautioned Tyran Kam, Fitch Ratings’ head of China Properties, to prevent a “messy” collapse.
+  
+
+  
+      “It’s unclear what will happen next for the company. But I don’t think the government is deliberately forcing a liquidation,” he said.
+  
+
+  
+      
+            
+        
+      
+    
+       
+    
+    
+      
+        
+  
+  TOPSHOT - The Evergrande logo is seen on residential buildings in Nanjing, in China's eastern Jiangsu province on August 18, 2023. Embattled Chinese property giant Evergrande Group filed for bankruptcy protection in the United States on August 17, 2023, court documents showed, a measure that protects its US assets while it efforts a restructuring deal. (Photo by STRINGER / AFP) / China OUT (Photo by STRINGER/AFP via Getty Images)
+  
+
+        AFP/Getty Images
+      
+    
+
+
+    
+    
+      
+      Evergrande's bankruptcy may be just the beginning of China's real estate crisis
+    
+      
+
+
+
+
+  
+      The chairman’s detention might be partly related to its wealth management unit, Kam said. The unit had been raising funds for its parent firm from individual and corporate investors as part of China’s “shadow banking” sector since 2015.
+  
+
+  
+      Earlier this month, the police in Shenzhen, where Evergrande is headquartered, detained some staff at the unit. It was suspected of “illegal fundraising,” the Shenzhen government’s press office said in an article on its social media account
+  
+
+  
+      As part of a wider investigation into the company, several other Evergrande executives, including Xu’s son and a former chief financial officer, were also detained, state-owned Yicai reported Thursday, citing unnamed sources familiar with the matter. The report was widely cited by other Chinese media before being deleted.
+  
+
+  
+      Evergrande has not responded to a CNN request for comment.
+  
+
+  
+    What’s next? 
+
+
+  
+      Previously China’s second biggest real estate company, Evergrande’s default in 2021 ignited a crisis in the property sector that continues to weigh on the wider economy.
+  
+
+  
+      Evergrande unveiled a $19 billion dollar proposal to make peace with its international creditors in March. In August, it filed for bankruptcy protection in the United States as part of the process.
+  
+
+  
+      But last Friday, Evergrande canceled meetings with overseas investors scheduled for this week. It said it needed to reassess the terms of the restructuring plan, in part because sales had been weaker than expected.
+  
+
+  
+      Taken together, the detention of its chairman, the criminal and regulatory probes, and its inability to issue new debt means the company’s restructuring could fail. Trading in its shares has been halted until further notice, after plunging more than 80% since they resumed trading in August following a previous 17-month suspension.
+  
+
+  
+      
+            
+        
+      
+    
+       
+    
+    
+      
+        
+  
+  CHANGZHOU, JIANGSU, CHINA - 2023/08/31: View of residential buildings in Changzhou. China's financial watchdogs announced on Thursday that housing credit policies will be adjusted and optimized. The interest rates for existing mortgages for first-home purchases will be lowered, according to a joint statement released by the People's Bank of China and the National Administration of Financial Regulation. (Photo by Sheldon Cooper/SOPA Images/LightRocket via Getty Images)
+  
+
+        Sheldon Cooper/SOPA Images/LightRocket/Getty Images
+      
+    
+
+
+    
+    
+      
+      Even 1.4 billion people can't fill all of China's vacant homes, ex-official admits
+    
+      
+
+
+
+
+  
+      “The debt restructuring can’t really happen if Evergrade can’t issue new debt or equity, and it doesn’t seem like it can,” Magnus said.
+  
+
+  
+      “So unless there’s a last minute solution to allow new issuance, the plan looks to be toast. Quite whether there will be such a last minute solution depends on what the government and the regulators have in mind for Evergrande.”
+  
+
+  
+      If the restructuring fails, and Evergrande can’t strike a new deal with its creditors, it could face liquidation.
+  
+
+  
+      An investor in the company has already filed a petition in Hong Kong to force the winding up of the business. A growing number of investors are reportedly seeking to join the action if it is unable to come up with a new survival plan soon.
+  
+
+  
+      Whether it will liquidate depends on how the bondholders plan to move forward with their proposal, Kam said.
+  
+
+  
+      However, a liquidation will be a “messy process” for all creditors, he added. When a company liquidates, its assets are frozen, and it stops operations.
+  
+
+  
+    Too many homes
+
+
+  
+      That could have far reaching consequences.
+  
+
+  
+      Evergrande still had more than 100,000 employees at the end of 2022 and nearly 800 unfinished real estate projects to build about 700,0000 apartments in more than 200 cities across China. The market is already awash with vacant properties that by one recent estimate could house the country’s entire population.
+  
+
+  
+      Its employees, investors and home buyers have held a number of protests over the past two years to demand unpaid salaries, reimbursement for investment losses or compensation for unfinished homes. 
+  
+
+  
+      There are also implications for thousands of home buyers who have prepaid for their units, the wider economy and domestic and international financial markets. 
+  
+
+  
+      
+            
+        
+      
+    
+       
+    
+    
+      
+        
+  
+  The China Evergrande Group logo displayed atop the company's headquarters in Shenzhen, China, on Thursday, Sept. 30, 2021. 
+  
+
+        Gilles Sabrie/Bloomberg/Getty Images
+      
+    
+
+
+    
+    
+      
+      Evergrande stock crashes again as fears of collapse grow
+    
+      
+
+
+
+
+  
+      “The government doesn’t want the fabled middle class to suffer financially, or to lose their homes, but the company is becoming more and more an embarrassment for the authorities,” Magnus said.
+  
+
+  
+      While the government may be willing to let Evergrande fall, the impact on households and on confidence in the battered real estate market might be “too much,” he said, adding that officials may take steps to soften the blow to home buyers and investors.
+  
+
+  
+      Kam, at Fitch, believes the government will study how to stabilize the market after Evergrande falls, including how to continue its operations and complete and deliver its projects.
+  
+
+  
+      As for Magnus, he believes Evergrande’s time as an independent company is over. 
+  
+
+  
+      “They’ll try to keep its pulse beating for long enough to deliver the properties promised or manage the properties that already exist, but to all intents and purposes, Evergrande is slowly being deconstructed, I would say.”
+  
+
+                
+                
+                  
+                
+            

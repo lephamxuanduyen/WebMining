@@ -1,0 +1,179 @@
+
+      Right-wing media fumes over Univision anchor’s debate questions
+    
+
+            
+		
+                    
+                    function imageLoadError(img) {
+    const fallbackImage = '/media/sites/cnn/cnn-fallback-image.jpg';
+
+    img.removeAttribute('onerror');
+    img.src = fallbackImage;
+    let element = img.previousElementSibling;
+
+    while (element && element.tagName === 'SOURCE') {
+      element.srcset = fallbackImage;
+      element = element.previousElementSibling;
+    }
+  }
+                    
+		
+		
+			Analysis by Oliver Darcy, CNN
+		
+
+
+            
+  Updated
+        6:26 AM EDT, Fri September 29, 2023
+    
+
+      
+
+
+                
+                    
+
+  Editor’s Note: A version of this article first appeared in the “Reliable Sources” newsletter. Sign up for the daily digest chronicling the evolving media landscape here.
+
+
+  
+    
+      
+      CNN
+         — 
+    
+
+
+  
+      Republicans are enraged that their safe space was punctured at the second GOP debate by a Univision anchor. 
+  
+
+  
+      Ilia Calderón, an Emmy Award-winning journalist who co-anchors the evening news at the Spanish language network, triggered outrage on the right by asking the candidates sharp questions on a range of important topics on Wednesday evening. After welcoming viewers in Spanish (the debate was simulcast on Univision), Calderón queried the Republicans through the night on weighty issues related to immigration, hate crimes, health care, and more.
+  
+
+  
+      But unlike what is typical on Fox News, Calderón declined to frame her questions in a manner favorable for the Republican candidates. Instead of setting them up with softball-style prompts to tee off, Calderón pressed the would-be presidents for substantive answers on an array of important subjects. The candidates struggled to respond directly, and in some cases tried to duck the questions entirely.
+  
+
+  
+      Ahead of the debate, which ultimately averaged 9.5 million viewers, Calderón told the Los Angeles Times she viewed her co-moderator role as a “big responsibility to represent all of our community” and was “preparing real and respectful questions.”
+  
+
+  
+      
+            
+        
+      
+    
+       
+    
+    
+      
+        
+  
+  Florida Gov. Ron DeSantis and former biotech executive Vivek Ramaswamy debate each other during the second Republican candidates' debate of the 2024 US presidential campaign at the Ronald Reagan Presidential Library in Simi Valley, California, on September 27, 2023. 
+  
+
+        Mike Blake/Reuters
+      
+    
+
+
+    
+    
+      
+      On GOP debate stage, a sometimes oversimplified view of China's economy
+    
+      
+
+
+
+  
+      Those real questions — which were also framed to dispel narratives crafted around the issues in right-wing media — were on display Wednesday night.
+  
+
+  
+      “Florida’s new black history curriculum says, ‘Slaves developed skills which, in some instances, could be applied for their personal benefit,’” she said to Gov. Ron DeSantis. “You have said slaves developed skills in spite of slavery, not because of it. But many are still hurt. For the descendants of slaves, this is personal. What is your message to them?”
+  
+
+  
+      She later asked former vice president Mike Pence: “The Department of Homeland Security warns that violence against LGBTQ+ people is on the rise and intensifying. According to a recent study, members of that community are nine times more likely to be victims of violent hate crimes. As president, how would you protect this community from violent attacks and discrimination?” 
+  
+
+  
+      But the unsparing and frank manner in which she engaged with the Republican field prompted a wave of ferocious backlash from right-wing media figures watching back at home and one of Fox News’ own prime time hosts.
+  
+
+  
+      “Fox joining Univision, perhaps, was the worst partnership I’ve ever seen since Bud Light hired Dylan Mulvaney,” Greg Gutfeld commented on Thursday, blasting Calderón for a supposed “litany of clichés” that “was like a deliberate list prepared by DNC to tweak the candidates, to tweak the audience.”
+  
+
+  
+      Gutfeld wasn’t alone in his outrage.
+  
+
+  
+      “The Univision anchor’s questions seem to come from the comments section of Salon and Vox,” talk radio host Buck Sexton said.
+  
+
+  
+      “I think the Univision lady thinks she’s at a Democratic Debate,” Fox News commenter Tomi Lahren added.
+  
+
+  
+      
+            
+        
+      
+    
+       
+    
+    
+      
+        
+  
+  North Dakota Gov. Doug Burgum, former Gov. of New Jersey Chris Christie, former Gov. from South Carolina and UN ambassador Nikki Haley, Florida Gov. Ron DeSantis, entrepreneur Vivek Ramaswamy, US Senator from South Carolina Tim Scott and former US Vice President Mike Pence attend the second Republican presidential primary debate at the Ronald Reagan Presidential Library in Simi Valley, California, on September 27, 2023.
+  
+
+        Mike Blake/Reuters
+      
+    
+
+
+    
+    
+      
+      Fact Check: The second GOP debate of the 2024 election
+    
+      
+
+
+
+  
+      “Why did the RNC who is supposed to stand for our values allow Univision BS leftist questions?” CPAC boss Matt Schlapp asked. “This is outrageous. Stop it.”
+  
+
+  
+      The outrage incited by the journalist’s questions spoke to a larger, worrisome trend that has taken root in the Republican Party in recent years, particularly under the thumb of Donald Trump, where right-wing figures often flock to friendly outlets to air their claims unchallenged.
+  
+
+  
+      It put on display how insulated the Republican Party has become as it operates almost exclusively in right-wing media, with candidates agreeing to regular appearances on Fox News and talk radio, but declining to participate in interviews with what they deem to be the hostile “liberal media.” 
+  
+
+  
+      In the right-wing media ecosystem, Republican candidates are coddled and rarely subject to hard-hitting questions. Interviews are often chats between commentators who share the candidates’ political viewpoints. 
+  
+
+  
+      That feedback loop, which Calderón declined to be a part of, is unquestionably beneficial for companies like Fox News. But it doesn’t bode well for the country writ large.
+  
+
+                
+                
+                  
+                
+            

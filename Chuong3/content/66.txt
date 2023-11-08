@@ -1,0 +1,109 @@
+
+      Amazon is bringing ads to Prime Video and will charge you to avoid them
+    
+
+            
+		
+                    
+                    function imageLoadError(img) {
+    const fallbackImage = '/media/sites/cnn/cnn-fallback-image.jpg';
+
+    img.removeAttribute('onerror');
+    img.src = fallbackImage;
+    let element = img.previousElementSibling;
+
+    while (element && element.tagName === 'SOURCE') {
+      element.srcset = fallbackImage;
+      element = element.previousElementSibling;
+    }
+  }
+                    
+		
+		
+			By Jordan Valinsky, CNN
+		
+
+
+            
+  Published
+        7:25 AM EDT, Fri September 22, 2023
+    
+
+      
+
+
+                
+                    
+    
+      New York
+      CNN
+         — 
+    
+
+
+  
+      Amazon is joining other streaming services and inserting ads into its programming.
+  
+
+  
+      Beginning next year, shows and movies on its Prime Video service will “include limited advertisements,” the company announced Friday. Amazon’s change brings it in line with its rivals, like Netflix and Max, adding ad-supported tiers as companies search for additional revenue.
+  
+
+  
+      Amazon explained that ads will help it “continue investing in compelling content and keep increasing that investment over a long period of time.” Spending on its content, which includes “Thursday Night Football” and its original series, soared nearly 30% in 2022 to $16.6 billion. 
+  
+
+  
+      The company didn’t reveal how long the ad breaks will be, but did say its shows and movies will have “meaningfully fewer ads than linear TV and other streaming TV providers.”
+  
+
+  
+      
+            
+        
+      
+    
+       
+    
+    
+      
+        
+  
+  
+  
+
+        demaerre/iStockphoto/Getty Images
+      
+    
+
+
+    
+    
+      
+      For the first time, cable and broadcast makes up less than half of TV viewing
+    
+      
+
+
+
+  
+      Customers that want to skip ads can buy an ad-free tier for an additional $2.99 per month next year. Prime Video, which is home to “The Marvelous Mrs. Maisel” and “Citadel,” is included in the $139 yearly Prime subscription.
+  
+
+  
+      Streaming services are no long chasing subscribers, but rather investors are pressuring them to make money off the services, even if it comes at the expense of losing subscriptions. As a result, they are selling ads or hiking monthly prices.
+  
+
+  
+      Last month, Disney+ increased prices for the second time in less than a year, with the monthly cost of its ad-free plan rising to $13.99 in October — a $3 increase. Hulu, in which Disney owns a majority stake, will also hike its monthly ad-free subscription $3 to $17.99. 
+  
+
+  
+      Peacock, owned by NBCUniversal, also had its first-ever price hike in July.
+  
+
+                
+                
+                  
+                
+            

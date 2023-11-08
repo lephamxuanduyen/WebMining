@@ -1,0 +1,234 @@
+
+      US government and 17 states sue Amazon in landmark monopoly case
+    
+
+            
+		
+                    
+                    function imageLoadError(img) {
+    const fallbackImage = '/media/sites/cnn/cnn-fallback-image.jpg';
+
+    img.removeAttribute('onerror');
+    img.src = fallbackImage;
+    let element = img.previousElementSibling;
+
+    while (element && element.tagName === 'SOURCE') {
+      element.srcset = fallbackImage;
+      element = element.previousElementSibling;
+    }
+  }
+                    
+		
+		
+			By Brian Fung, CNN
+		
+
+
+            
+  Updated
+        11:07 PM EDT, Tue September 26, 2023
+    
+
+      
+
+
+                
+                    
+    
+      
+      CNN
+         — 
+    
+
+
+  
+      The US government and 17 states are suing Amazon in a landmark monopoly case reflecting years of allegations that the e-commerce giant abused its economic dominance and harmed fair competition.  
+  
+
+  
+      The groundbreaking lawsuit by the Federal Trade Commission and 17 attorneys general marks the government’s sharpest attack yet against Amazon, a company that started off selling books on the internet but has since become known as “the everything store,” expanding into selling a vast range of consumer products, creating a globe-spanning logistics network and becoming a powerhouse in other technologies such as cloud computing.  
+  
+
+  
+      The 172-page complaint alleges Amazon unfairly promotes its own platform and services at the expense of third-party sellers who rely on the company’s e-commerce marketplace for distribution. 
+  
+
+  
+      For example, according to the FTC, Amazon has harmed competition by requiring sellers on its platform to purchase Amazon’s in-house logistics services in order to secure the best seller benefits, referred to as “Prime” eligibility. It also claims the company anticompetitively forces sellers to list their products on Amazon at the lowest prices anywhere on the web, instead of allowing sellers to offer their products at competing marketplaces for a lower price.  
+  
+
+  
+      That practice is already the subject of a separate lawsuit targeting Amazon filed by California’s attorney general last year. 
+  
+
+  
+      Because of Amazon’s dominance in e-commerce, sellers have little option but to accept Amazon’s terms, the FTC alleges, resulting in higher prices for consumers and a worse consumer experience. Amazon also ranks its own products in marketplace search results higher than those sold by third parties, the FTC said.
+  
+
+  
+      Amazon is “squarely focused on preventing anyone else from gaining that same critical mass of customers,” FTC Chair Lina Khan told reporters Tuesday. “This complaint reflects the cutting edge and best thinking on how competition occurs in digital markets and, similarly, the tactics that Amazon has used to suffocate rivals, deprive them of oxygen, and really leave a stunted landscape in its wake.”
+  
+
+  
+      The states involved in the case are Connecticut, Delaware, Maine, Maryland, Massachusetts, Michigan, Minnesota, New Jersey, New Hampshire, New Mexico, Nevada, New York, Oklahoma, Oregon, Pennsylvania, Rhode Island, and Wisconsin.
+  
+
+  
+    Next steps in the case
+
+
+  
+      The complaint was filed in the US District Court for the Western District of Washington, and seeks a court order blocking Amazon from engaging in the allegedly anticompetitive behavior.
+  
+
+  
+      The FTC isn’t ruling out a possible breakup of Amazon — nor the potential for individual executives to be named in a landmark antitrust case against the e-commerce giant, according to Khan. 
+  
+
+  
+      Speaking Tuesday just hours after the lawsuit was filed, Khan declined to say that the FTC would specifically seek a breakup as a remedy to Amazon’s allegedly illegal monopoly. 
+  
+
+  
+      “At this stage, the complaint is really focused on the issue of liability,” Khan said at the event hosted by Bloomberg News in Washington.
+  
+
+  
+      But the agency’s complaint, filed in Seattle federal court, suggests that any court order to address the issue could include “structural relief,” a legal term referring to a potential breakup of Amazon. 
+  
+
+  
+      Asked about that request, Khan said the FTC is broadly interested in any relief that can effectively stop Amazon’s allegedly anticompetitive behavior.
+  
+
+  
+      “Ultimately, you will want to make sure that any remedy is halting the illegal conduct, preventing a recurrence and ensuring that Amazon is not able to profit and benefit from its illegal behavior,” Khan said Tuesday afternoon. “When we get to the issue of remedy, those are going to be the principles we’ll be focused on.”
+  
+
+  
+      Khan also left open the possibility that Amazon executives could be held personally liable if there is sufficient evidence of their responsibility for Amazon’s allegedly illegal conduct. 
+  
+
+  
+      “We want to make sure that we are bringing cases against the right defendants,” Khan said in response to a question from CNN about whether the FTC considered naming specific executives in Tuesday’s case. “If we think that there is a basis for doing so, we won’t hesitate to do that.”
+  
+
+  
+      The suit makes Amazon the third tech giant after Google and Meta to be hit with sweeping US government allegations that the company spent years violating federal antitrust laws, reflecting policymakers’ growing worldwide hostility toward Big Tech that intensified after 2016. The litigation could take years to play out. But just as Amazon founder Jeff Bezos and his spectacular wealth have inspired critics to draw comparisons to America’s Gilded Age, so may the FTC lawsuit come to symbolize a modern repeat of the antitrust crackdown of the early 20th century.  
+  
+
+  
+      In a release, Khan accused Amazon of using “punitive and coercive tactics” to preserve an illegal monopoly.
+  
+
+  
+      “Amazon is now exploiting its monopoly power to enrich itself while raising prices and degrading service for the tens of millions of American families who shop on its platform and the hundreds of thousands of businesses that rely on Amazon to reach them,” Khan said. “Today’s lawsuit seeks to hold Amazon to account for these monopolistic practices and restore the lost promise of free and fair competition.”
+  
+
+  
+    Amazon rejects Khan’s logic
+
+
+  
+      “Today’s suit makes clear the FTC’s focus has radically departed from its mission of protecting consumers and competition,”said David Zapolsky, Amazon’s senior vice president of global public policy and general counsel. He said Amazon’s practices have helped spur competition, innovation and selection across the retail industry. He argued that Amazon has fostered lower prices, faster delivery and helped small businesses sell their goods. 
+  
+
+  
+      “If the FTC gets its way, the result would be fewer products to choose from, higher prices, slower deliveries for consumers, and reduced options for small businesses — the opposite of what antitrust law is designed to do,” he said. “The lawsuit filed by the FTC today is wrong on the facts and the law, and we look forward to making that case in court.”
+  
+
+  
+      In a subsequent blog post, Zapolsky warned that the FTC suit could not only force Amazon to list products at a higher price point than on rival marketplaces, but also that it could raise Amazon’s costs of doing business — costs that may then be passed along to consumers in the form of higher Amazon Prime subscription prices or slower shipping times. 
+  
+
+  
+      “We respect the role the FTC has historically played in protecting consumers and promoting competition,” the blog post said. “Unfortunately, it appears the current FTC is radically departing from that approach, filing a misguided lawsuit against Amazon that would, if successful, force Amazon to engage in practices that actually harm consumers and the many businesses that sell in our store—such as having to feature higher prices, offer slower or less reliable Prime shipping, and make Prime more expensive and less convenient.”
+  
+
+  
+      
+            
+        
+      
+    
+       
+    
+    
+      
+        
+  
+  Detail of the Amazon Prime streaming app on the screen of a Samsung Galaxy Tab, taken on October 6, 2021. (Photo by Olly Curtis/Future Publishing)
+  
+
+        Olly Curtis/Future Publishing/Getty Images
+      
+    
+
+
+    
+    
+      
+      Amazon is bringing ads to Prime Video and will charge you to avoid them
+    
+      
+
+
+
+
+  
+      For years, Amazon’s critics including US lawmakers, European regulators, third-party sellers, consumer advocacy groups and more have accused the company of everything from mistreating its workers to forcing its third-party sellers to accept anticompetitive terms. Amazon has unfairly used sellers’ own commercial data against them, opponents have said, so it can figure out what products Amazon should sell itself. And the fact that Amazon competes with sellers on the very same marketplace it controls represents a conflict of interest that should be considered illegal, many of Amazon’s critics have said.  
+  
+
+  
+      But Tuesday’s FTC suit is more narrowly focused, taking aim at Amazon’s behavior in two specific markets: an “online superstore” market, in which its conduct allegedly harmed shoppers; and an “online marketplace services” market serving independent sellers. Amazon’s deliberate self-preferencing of its own products in search results is an outgrowth of the underlying anticompetitive behavior at issue in the case, said John Newman, deputy director of the FTC’s competition bureau.  
+  
+
+  
+    A defining moment for Lina Khan
+
+
+  
+      The lawsuit represents a watershed moment in Khan’s career. She is widely credited with kickstarting antitrust scrutiny of Amazon in the United States with a seminal law paper in 2017. She later helped lead a congressional investigation into the tech industry’s alleged competition abuses, detailing in a 450-page report how Amazon — as well as Apple, Google and Meta — enjoy “monopoly power” and that there is “significant evidence” to show that the companies’ anticompetitive conduct has hindered innovation, reduced consumer choice and weakened democracy. 
+  
+
+  
+      The investigation led to a raft of legislative proposals aimed at reining in the companies, but the most significant ones have stalled under a barrage of industry lobbying and decisions by congressional leaders not to bring the bills up for a final vote.  
+  
+
+  
+      Lawmakers’ inaction has left it to antitrust enforcers to police the tech industry’s alleged harms to competition. In 2021, President Joe Biden stunned many in Washington when he tapped Khan not only to serve on the FTC but to lead the agency, sending a signal that he supported tough antitrust oversight.  
+  
+
+  
+      Since then Khan has taken an aggressive enforcement posture, particularly toward the tech industry. Under her watch, the FTC has sued to block numerous tech acquisitions, most notably Microsoft’s $69 billion deal to acquire video game publisher Activision Blizzard. It has moved to restrict how companies may collect and use consumers’ personal information, and warned them of the risks of generative artificial intelligence.  
+  
+
+  
+    Mounting monopoly scrutiny
+
+
+  
+      Throughout, the FTC has scrutinized Amazon — suing the company in June for allegedly tricking millions of consumers into signing up for Amazon Prime and reaching multimillion-dollar settlements in May with the company over alleged privacy violations linked to Amazon’s smart home devices. 
+  
+
+  
+      But the latest suit against Amazon may rank as the most significant of all, because it drives at the heart of Amazon’s e-commerce business and focuses on some of the most persistent criticisms of the company. 
+  
+
+  
+      In one heavily redacted portion of the FTC lawsuit, agency attorneys cryptically described Project Nessie, an “algorithm” and “pricing system” that has allegedly “extracted” an undisclosed amount of value “from American households.” It is unclear what Project Nessie is or how it works, but the FTC alleges in the complaint that the company’s program “belies its public claim that it ‘seek[s] to be Earth’s most customer-centric company.’” Amazon didn’t immediately respond to CNN’s questions about Project Nessie.
+  
+
+  
+      In a sign of how threatening Amazon perceived Khan’s ascent to be, the company in 2021 called for her recusal from all cases involving the tech giant.  
+  
+
+  
+      Khan has resisted those calls. And in remarks to reporters this week, Khan deflected questions about her past work on Amazon, praising the efforts of FTC staff in completing the agency’s investigation. On Tuesday, the FTC said it held a unanimous 3-0 vote authorizing the lawsuit; Khan was among those voting to proceed. 
+  
+
+                
+                
+                  
+                
+            

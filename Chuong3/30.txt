@@ -1,0 +1,162 @@
+
+      California law raises minimum wage for fast food workers
+    
+
+            
+		
+                    
+                    function imageLoadError(img) {
+    const fallbackImage = '/media/sites/cnn/cnn-fallback-image.jpg';
+
+    img.removeAttribute('onerror');
+    img.src = fallbackImage;
+    let element = img.previousElementSibling;
+
+    while (element && element.tagName === 'SOURCE') {
+      element.srcset = fallbackImage;
+      element = element.previousElementSibling;
+    }
+  }
+                    
+                    
+                    
+                    
+		
+		
+			By Danielle Wiener-Bronner, Natasha Chen and Jack Hannah, CNN
+		
+
+
+            
+  Published
+        6:53 PM EDT, Thu September 28, 2023
+    
+
+      
+
+
+                
+                    
+    
+      New York
+      CNN
+         — 
+    
+
+
+  
+      California is raising the minimum wage for fast food workers, marking a hard-won victory for those workers and union organizers. 
+  
+
+  
+      Amid chants of “when we fight, we win” from fast food employees and Service Employees International Union members in Los Angeles, California, Governor Gavin Newsom on Thursday signed legislation that raises the minimum wage to $20 an hour for fast food workers, and creates a council that can approve further increases in the future. The state’s current minimum wage is $15.50 an hour and will increase to $16 an hour on January 1. 
+  
+
+  
+      The new hourly wage for fast food workers will take effect on April 1 of next year. Employees who work at fast food restaurants with at least 60 locations nationwide are eligible.
+  
+
+
+      
+    
+       
+    
+    
+      
+        
+  
+  Fast food workers and union activists demonstrate outside the California State Capitol in support of legislation to increase fast-food worker wages to $20 an hour, on Friday, Sept. 15, 2023, in Sacramento, Calif. 
+  
+
+        Terry Chea/AP
+      
+    
+
+
+  
+      A key part of the law is the establishment of a nine-person fast food council which includes two representatives from the fast food industry, two who represent franchisee groups or restaurant owners, two who represent employees, two representatives from groups advocating for employees, and a member of the public. 
+  
+
+  
+      From 2025 through 2029, the council is authorized to increase the hourly minimum wage for fast food workers each year by a maximum of either 3.5% or the annual change in the consumer price index (a federal government measure of inflation and prices of goods), whichever is lower. In that period, only the council may set wages for fast food workers. The law only authorizes the council through 2029.
+  
+
+  
+      The council may also recommend other labor, health or safety standards for consideration to appropriate governing bodies.
+  
+
+  
+    A lengthy battle 
+
+
+  
+      The version of the law signed by Newsom today replaces an earlier iteration, which was passed and signed into law by the governor last year. 
+  
+
+  
+      Members of the restaurant industry lobbied hard against that law, spending millions. Ultimately, the law was put on hold pending a referendum in November 2024, which would have let voters repeal it. 
+  
+
+  
+      This law replaces that version, and appeases members of the industry, which opposed the previous version’s council’s ability to create laws involving working conditions and workplace safety, elevate wages, and take other steps to influence the sector.An industry lobbying group also said that fast food companies and their franchisees would have spent over $120 million to urge people to vote down the original law during the November referendum.
+  
+
+  
+      “The governor’s signature on this bill brings to an end a years-long and expensive fight over the regulation of the California quick service industry,” Sean Kennedy, executive vice president of public affairs at the National Restaurant Association said in a statement Thursday. “There are significant challenges created by this law that restaurants will have to navigate, but they will do it with stable and predictable regulation.”  
+  
+
+  
+      The difficult path made the “brightness of this day even more fantastic,” SEIU International President Mary Kay Henry told CNN. 
+  
+
+  
+      
+            
+        
+      
+    
+       
+    
+    
+      
+        
+  
+  SAG-AFTRA actors and Writers Guild of America (WGA) writers walk the picket line during their ongoing strike outside Netflix offices in Los Angeles, California, U.S., September 22, 2023.
+  
+
+        Mario Anzuoni/Reuters
+      
+    
+
+
+    
+    
+      
+      How Hollywood writers' landmark deal with studios could set a precedent in the battle against A.I.
+    
+      
+
+
+
+
+  
+      “We are confident that what’s outlined is going to dramatically improve conditions for the state’s half million fast food workers,” Henry said. California’s fast-food industry has more than 550,000 workers, according to the SEIU, most of them women and people of color. Henry added that the law “inspires other workers who’ve been organizing … in states all over the country and wondering if they could ever get to a table with their employer.” 
+  
+
+  
+      Anneisha Williams, who works for Jack in the Box in California and spoke to the public during the signing Thursday, told CNN that the higher wage will make a huge difference to her personally. The higher pay means more money toward bills, feeding her children and dog, and hopefully emerging from poverty, she said. Currently, Williams said, she makes $17 an hour. 
+  
+
+  
+      For Williams, it’s also important to have a seat at the table via the council. 
+  
+
+  
+      “I’m grateful to… finally be able to sit down with these corporations and these companies, and discuss some of the issues that we’re having,” she said. “We’re here to make a change and to make things work out for everybody. And that’s what we want them to understand.”
+  
+
+                
+                
+                  
+                
+            

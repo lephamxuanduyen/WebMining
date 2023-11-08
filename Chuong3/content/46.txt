@@ -1,0 +1,237 @@
+
+      Crisis at Evergrande deepens as it misses another bond payment
+    
+
+            
+		
+                    
+                    function imageLoadError(img) {
+    const fallbackImage = '/media/sites/cnn/cnn-fallback-image.jpg';
+
+    img.removeAttribute('onerror');
+    img.src = fallbackImage;
+    let element = img.previousElementSibling;
+
+    while (element && element.tagName === 'SOURCE') {
+      element.srcset = fallbackImage;
+      element = element.previousElementSibling;
+    }
+  }
+                    
+		
+		
+			By Laura He, CNN
+		
+
+
+            
+  Updated
+        12:05 AM EDT, Wed September 27, 2023
+    
+
+      
+
+
+                
+                    
+
+  Editor’s Note: Sign up for CNN’s Meanwhile in China newsletter which explores what you need to know about the country’s rise and how it impacts the world.
+
+
+  
+    
+      Hong Kong
+      CNN
+         — 
+    
+
+
+  
+      Evergrande Group has just missed another bond payment, casting further doubt over the future of the embattled property developer at the epicenter of China’s real estate crisis.
+  
+
+  
+      Hengda Real Estate, Evergrande’s flagship unit in mainland China, missed principal and interest payments on Monday on an onshore 4 billion yuan ($547 million) bond, the company said in a filing to the Shenzhen Stock Exchange. 
+  
+
+  
+      Evergrande, which had total liabilities of $328 billion at the end of June, first defaulted on its debt in 2021, sparking a crisis that continues to weigh on China’s vast property sector.
+  
+
+  
+      News that it had missed another payment rattled investors, who had already been fretting about the fate of the property giant after it warned Sunday that attempts to restructure its debt were in trouble because of a regulatory probe into Hengda.
+  
+
+  
+      That warning, which came after the revelation of a separate criminal probe into its shadow banking unit, raised questions about whether the property giant can still complete the multi-billion-dollar debt restructuring that is being closely watched by global investors. 
+  
+
+
+      
+    
+       
+    
+    
+      
+        
+  
+  It its heyday, Evergrande was China's second largest property developer.
+  
+
+        Sttringer/AFP/Getty Images
+      
+    
+
+
+
+  
+      Shares in Evergrande closed down 7% Tuesday, following a 22% plunge on Monday. Other developers dropped across the board. Sunac China sank more than 6%. Country Garden fell 4.2%.
+  
+
+  
+      Hong Kong’s benchmark Hang Seng
+            
+                (HSI) Index declined by 1.5%, closing at its lowest level in 10 months.
+  
+
+  
+      If the restructuring fails and Evergrande is unable to reach a new deal with its offshore creditors, it could face liquidation, where its assets are sold and it stops operations.
+  
+
+  
+      A disorderly collapse of the firm, which was formerly China’s second largest developer, would further damage the wider economy, which had been reliant on the real estate market to prop up growth for decades. 
+  
+
+  
+      
+            
+        
+      
+    
+       
+    
+    
+      
+        
+  
+  The company logo is seen on the headquarters of China Evergrande Group in Shenzhen, Guangdong province, China September 26, 2021.
+  
+
+        Aly Song/Reuters
+      
+    
+
+
+    
+    
+      
+      Evergrande's plan to stave off collapse is running into trouble
+    
+      
+
+
+
+
+  
+      China’s property industry once accounted for as much as 30% of the country’s gross domestic product.
+  
+
+  
+      “Investors will be watching closely China’s property market, whether it can stabilize soon and [its] implications for global commodities demand and prices,” Tao Wang, chief China economist and head of Asia Economics at UBS, told CNN.
+  
+
+  
+      She said offshore dollar bonds of Chinese developers had been trading at “very distressed” levels given the defaults of many developers and the ongoing downturn in the industry. 
+  
+
+  
+    Questions about financial stability
+
+
+  
+      Concerns over China’s economic stability have resurfaced, driven by the deepening financial crisis at Evergrande, said Stephen Innes, managing partner of SPI Asset Management.
+  
+
+  
+      “It has reignited concerns that the country’s housing sector is still deteriorating rather than showing signs of improvement and that financial stability risks are rising,” he said.
+  
+
+  
+      The cracks are already starting to show. 
+  
+
+  
+      Zhongrong Trust, which had invested more than $9 billion in the real estate sector for corporate clients and wealthy individuals by the end of 2022, missed payments to its investors last month, sparking rare protests. 
+  
+
+  
+      The incident underscores how China’s prolonged property downturn may be spilling over to its trillion-dollar financial industry.
+  
+
+  
+      Furthermore, there is a growing sense of unease about whether China’s authorities are taking sufficient measures to support the overall economy, Innes said.
+  
+
+  
+      
+            
+        
+      
+    
+       
+    
+    
+      
+        
+  
+  NANJING, CHINA - AUGUST 31, 2023 - Photo taken on August 31, 2023 shows a residential area of Country Garden in Nanjing, Jiangsu province, China. On August 30, Country Garden released the first half of 2023 performance report. In the first half of 2023, the company achieved a total revenue of 226.31 billion yuan, an increase of 39.4%. Core net loss attributable to shareholders was approximately 45.35 billion yuan. (Photo credit should read CFOTO/Future Publishing via Getty Images)
+  
+
+        CFOTO/Future Publishing/Getty Images
+      
+    
+
+
+    
+    
+      
+      China's biggest homebuilder is fighting for its life. Here's what you need to know about the real estate crisis
+    
+      
+
+
+
+
+  
+      The government’s priorities have shifted from purely pursuing economic growth to achieving tech self-sufficiency and maintaining financial stability, he added.
+  
+
+  
+      “This evolving set of priorities presents Chinese authorities with a more complex and delicate balancing act,” he said. 
+  
+
+  
+      On Sunday, Evergrande surprised investors with an announcement that it was unable to issue new notes due to the investigation into Hengda. 
+  
+
+  
+      China’s securities regulator launched its probe last month into the subsidiary’s suspected violations of requirements to disclose information to investors, the company said.
+  
+
+  
+      Sunday’s announcement came just days after Evergrande canceled key meetings with creditors to restructure its offshore debt, citing disappointing sales of properties in the past few months.
+  
+
+  
+      Earlier this month, Chinese police detained some staff at Evergrande’s wealth management unit after it failed to repay investors. It was the first criminal probe launched against Evergrande since it was hit by the debt crisis nearly two years ago.
+  
+
+  
+      — Mengchen Zhang and Marc Stewart contributed reporting.
+  
+
+                
+                
+                  
+                
+            

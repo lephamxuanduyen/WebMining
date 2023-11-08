@@ -1,0 +1,96 @@
+
+      Peloton shares rise following a partnership with former foe Lululemon
+    
+
+            
+		
+                    
+                    function imageLoadError(img) {
+    const fallbackImage = '/media/sites/cnn/cnn-fallback-image.jpg';
+
+    img.removeAttribute('onerror');
+    img.src = fallbackImage;
+    let element = img.previousElementSibling;
+
+    while (element && element.tagName === 'SOURCE') {
+      element.srcset = fallbackImage;
+      element = element.previousElementSibling;
+    }
+  }
+                    
+		
+		
+			By Jordan Valinsky, CNN
+		
+
+
+            
+  Updated
+        7:26 PM EDT, Thu September 28, 2023
+    
+
+      
+
+
+                
+                    
+    
+      New York
+      CNN
+         — 
+    
+
+
+  
+      Peloton and Lululemon, former foes, are teaming up together.
+  
+
+  
+      The fitness companies announced a five-year “strategic global partnership,” which involves Lululemon ditching its Mirror fitness hardware and Peloton reducing production of its private-label line of fitness clothing. Financial terms of the deal weren’t disclosed.
+  
+
+  
+      Beginning next month, Lululemon will become the primary maker of Peloton-branded fitness clothing, meaning Peloton will drastically reduce the number of its own clothing that it makes in-house. The clothing line sparked a lawsuit between the companies with Lululemon accusing Peloton of creating “copycat products.” The two companies settled the lawsuit last year.
+  
+
+  
+      The new clothing line will be sold online and at Peloton studios beginning October 11.
+  
+
+  
+      In return, Lululemon will stop selling its $995 Mirror fitness device by the end of the year and soon end producing its own Peloton-like fitness classes. In the next few months, Peloton’s streaming fitness classes will be available in the “Lululemon Studio” app for subscribers. Lululemon relaunched the app about a year ago as a Peloton rival, giving subscribers streaming classes from trendy fitness studios, like celebrity favorites AARMY and Dogpound. 
+  
+
+  
+      Mirror has been a sore spot for Lululemon since its purchase during the height of the Covid-19 pandemic in 2020. The $500 million acquisition was written off earlier this year, essentially becoming worthless, and forced Lululemon to search for strategic alternatives to the device. A last-ditch effort in 2022 to cut its price and broaden its appeal with new fitness classes seemingly failed to generate interest from consumers.
+  
+
+  
+      “By bringing together the best in fitness content with the best in athletic apparel, we’ll give our communities one-of-a-kind experiences and special content that will inspire them to achieve their goals,” said Dion Camp Sanders, Peloton’s chief emerging business officer, in a press release.
+  
+
+  
+      The partnership stems from both companies realizing that “dabbling in areas outside of their core competencies was not yielding results,” according to Neil Saunders, a retail analyst for GlobalData. 
+  
+
+  
+      “Peloton’s push into apparel was a failure as the selection was weak and looked incredibly lackluster in stores. The company was not doing sufficient volume to justify the operation,” Saunders told CNN. “Lululemon’s Mirror device was a flop because it was too expensive and too complex.”
+  
+
+  
+      “The partnership is beneficial for both firms, but Peloton arguably needs it more as it is still on very shaky ground financially,” he added.
+  
+
+  
+      Shares of Peloton (PTON) rose about 7% in midday trading Thursday, while Lululemon (LULU) stock was flat.
+  
+
+  
+  Correction: Peloton isn’t completely ending production of its in-house clothing as previously stated, rather reducing its line of apparel as Lululemon becomes its “primary athletic apparel partner.”
+
+
+                
+                
+                  
+                
+            

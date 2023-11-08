@@ -1,0 +1,135 @@
+
+      Girl Scout cookies are coming back, and prices are going up
+    
+
+            
+		
+                    
+                    function imageLoadError(img) {
+    const fallbackImage = '/media/sites/cnn/cnn-fallback-image.jpg';
+
+    img.removeAttribute('onerror');
+    img.src = fallbackImage;
+    let element = img.previousElementSibling;
+
+    while (element && element.tagName === 'SOURCE') {
+      element.srcset = fallbackImage;
+      element = element.previousElementSibling;
+    }
+  }
+                    
+		
+		
+			By Danielle Wiener-Bronner, CNN
+		
+
+
+            
+  Updated
+        3:36 PM EDT, Thu September 28, 2023
+    
+
+      
+
+
+                
+                    
+    
+      New York
+      CNN
+         — 
+    
+
+
+  
+      Girl Scout cookies are getting more expensive. In some places, at least.
+  
+
+  
+      At least one New York State chapter, the Girl Scouts Heart of the Hudson, told troop parents and other members of the community in an email this week that all cookies will be sold for $6 per box this coming cookie season — which takes place from about January to April annually nationwide – up from $5 last year. 
+  
+
+  
+      “In order to combat rising production and material costs, GSHH will be increasing the price of all cookie packages to $6.00,” the chapter’s interim CEO wrote, adding “we expect our neighboring councils to announce similar increases in the coming weeks and months.” 
+  
+
+  
+      Some cookies, like S’mores and Toffee-Tastic, were already priced at $6. But now the higher price will apply to other cookies that the troops sell, including the more classic varieties. 
+  
+
+
+      
+    
+       
+    
+    
+      
+        
+  
+  Girl Scout cookie prices have been rising from $5 to $6.
+  
+
+        John Moore/Getty Images
+      
+    
+
+
+  
+      The group leader pointed to higher costs, both for the Girl Scouts chapter and its cookie supplier, Little Brownie Bakers. 
+  
+
+  
+      “Unfortunately, both LBB and GSHH are not immune to inflation, and costs have risen for all aspects of the business,” the letter reads. 
+  
+
+  
+      Other chapters, including one in Louisiana and another in New York, announced similar increases last year. The Girl Scouts of Northern California also increased prices last year, saying that the change was necessary to balance their budget. 
+  
+
+  
+      
+            
+        
+      
+    
+       
+    
+    
+      
+        
+  
+  
+  
+
+        Willie J. Allen Jr./Orlando Sentinel/Tribune News Service/Getty Images
+      
+    
+
+
+    
+    
+      
+      The Girl Scout cookie crumbled this year. Here's what happened
+    
+      
+
+
+
+
+  
+      “Each of our 111 Girl Scout councils sets local Girl Scout Cookie prices based on several factors,” a spokesperson for Girl Scouts of the USA told CNN. “In some instances, councils are faced with the tough decision to raise the prices, though prices have remained steady in many areas for a number of years.” Troops across the country announced price increase from $4 to $5 a box in 2014 and 2015. 
+  
+
+  
+      Consumers have been tightening their belts when it comes to discretionary items, and some may balk at the higher prices. 
+  
+
+  
+      But Girl Scouts learned last year that there is a market for higher-priced cookies, thanks to the Raspberry Rally debacle. The Rallies, a limited-edition, raspberry-flavored version of the beloved Thin Mint, sold out rapidly and ended up on eBay for several times the listed price, to the frustration of the Girl Scouts leadership. 
+  
+
+                
+                
+                  
+                
+            
