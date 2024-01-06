@@ -45,6 +45,7 @@ link_todo = getURL_from_fileRSS(url_fileRSS)
 
 while link_todo:
     print('yeye')
+    print("hello")
     url_to_visit = link_todo.pop()
     print(url_to_visit)
     next_link = visit(url_to_visit)

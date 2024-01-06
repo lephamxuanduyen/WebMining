@@ -4,16 +4,15 @@ import os
 from bs4 import BeautifulSoup
 from urllib.parse import urlsplit
 
-file_store = 'F:\Web_Mining\Chuong2\crawl_danviet\content'
+file_store = 'F:\workplace\data'
 url_fileRSS= 'https://danviet.vn/rss/doi-song-1190.rss'
 
 domain = urlsplit(url_fileRSS).netloc
 
-def url_to_filename(url):
-    url = str(url).strip().replace(' ','_')
-    return re.sub(r'(?u)[^-\w.]','',url) + '.txt'
+def url_to_filename(num):
+    return num + '.txt'
 
-def Save_toTXT(url):
+def Save_toTXT(url, num):
     print('Saving file...')
 
     html = requests.get(url).text
@@ -27,15 +26,15 @@ def Save_toTXT(url):
 
         content = Title.text + '\n' + Author.text + '\n' + Desc.text + '\n' + Detail.text
 
-        filename = os.path.join(file_store,url_to_filename(url))
+        filename = os.path.join(file_store,url_to_filename(num))
         with open(filename,'w',encoding='utf-8') as f:
             f.write(content)
     finally:
         return
     
-def visit(url):
+def visit(url, num):
     print('**Now visiting:',url)
-    Save_toTXT(url)
+    Save_toTXT(url, num)
 
 def getURL_from_fileRSS(url_fileRSS):
     xml = requests.get(url_fileRSS).text
@@ -55,7 +54,8 @@ def getURL_from_fileRSS(url_fileRSS):
     return links_todo
 
 links_todo = getURL_from_fileRSS(url_fileRSS)
-
+i = 1
 while links_todo:
     url_to_visit = links_todo.pop()
-    next_link = visit(url_to_visit)
+    next_link = visit(url_to_visit, str(i))
+    i+=1
